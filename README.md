@@ -1,5 +1,5 @@
 
-<h1>Hey 👋</h1>
+<h1>Hey 👋🏼</h1>
 
 
 <h3 align="left">Connect with me:</h3>
