@@ -1,6 +1,13 @@
 
 <h1>Hey 👋🏼</h1>
 
+I’m currently interested in multiple fields 📚
+
+Backend (Spring, Micronaut and Vapor)
+iOS (SwiftUI and UIKit)
+DevOps
+Cloud/Infrastructure (AWS)
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
