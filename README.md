@@ -5,8 +5,8 @@ I’m currently interested in multiple fields 📚
 
 Backend (Spring, Micronaut and Vapor)</br>
 iOS (SwiftUI and UIKit)</br>
-DevOps
-Cloud/Infrastructure (AWS)
+DevOps</br>
+Cloud/Infrastructure (AWS)</br>
 
 <h3 align="left">Languages and Tools:</h3>
 
